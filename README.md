@@ -17,3 +17,5 @@ This recipe only works for Franz 5.X, get it now at http://meetfranz.com
 3. Unzip and copy the `recipe-franz-onenote` folder into the recipes dev directory
 
 4. Restart Franz
+
+5. In the OneNote service settings, enter the URL into the Team field.
