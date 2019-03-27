@@ -1,0 +1,16 @@
+{
+  "id": "onenote",
+  "name": "OneNote",
+  "version": "1.0.0",
+  "description": "OneNote",
+  "main": "index.js",
+  "author": "Michael",
+  "license": "MIT",
+  "config": {	
+    "serviceURL": "{teamId}",
+    "hasNotificationSound": false,
+    "hasDirectMessages": false,
+    "hasIndirectMessages": false,
+    "hasTeamId": true
+  }
+}
