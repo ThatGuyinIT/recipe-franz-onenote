@@ -4,8 +4,9 @@
   "version": "1.0.0",
   "description": "OneNote",
   "main": "index.js",
-  "author": "Michael",
+  "author": "ThatGuyInIT@Github",
   "license": "MIT",
+  "repository": "https://github.com/ThatGuyinIT/recipe-franz-onenote",
   "config": {	
     "serviceURL": "{teamId}",
     "hasNotificationSound": false,
